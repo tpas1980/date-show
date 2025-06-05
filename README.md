@@ -1,2 +1,2 @@
 # date-show
-This Python code tells the history of that country in the language of your computer or phone.
+This Python code will show the time of that country relative to the language of your computer or phone.
